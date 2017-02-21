@@ -1,6 +1,6 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\playercontoller.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DestroyByBoundary.cs">
     <Files>
       <File FileName="Assets\Scripts\Mover.cs" Line="1" Column="1" />
       <File FileName="Assets\_Completed-Assets\Scripts\Done_PlayerController.cs" Line="1" Column="1" />
@@ -9,7 +9,7 @@
       <File FileName="Assets\_Completed-Assets\Scripts\Done_Mover.cs" Line="1" Column="1" />
       <File FileName="Assets\_Completed-Assets\Scripts\Done_GameController.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\DestroyByBoundary.cs" Line="10" Column="30" />
-      <File FileName="Assets\Scripts\playercontoller.cs" Line="27" Column="1" />
+      <File FileName="Assets\Scripts\playercontoller.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
